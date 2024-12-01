@@ -1,0 +1,16 @@
+# Core packages
+opencv-python
+numpy
+face-recognition
+dlib
+
+# Database
+psycopg2-binary
+SQLAlchemy
+
+# Testing
+pytest
+
+# Utilities
+python-dotenv
+cmake
